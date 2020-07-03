@@ -1,5 +1,3 @@
-# RaspberryMint2007.github.io
-<!DOCTYPE html>
 <html>
   <head>
     <link href="C:\Users\Vivek Kesharwani\Desktop\1.css" rel="stylesheet">
